@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindcss.com/) and [accessible](https://www.w3.org/WAI/tutorials/) websites; powered by [well-documented](https://swagger.io/resources/open-api/) [stateless](https://jwt.io/) APIs.
+I love creating [fast](https://web.dev/measure/), [tested](https://testing-library.com/), [responsive](https://tailwindcss.com/) and [accessible](https://www.w3.org/WAI/tutorials/) websites; powered by [stateless](https://jwt.io/), [well-documented](https://swagger.io/resources/open-api/) and [well-tested](https://pkg.go.dev/testing) APIs.
 
 ### Tech Stack
 
@@ -16,6 +16,7 @@ I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindc
 #### Frameworks
 
 [![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=24292f)](https://reactjs.org/)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-fff?style=for-the-badge&logo=testinglibrary&logoColor=24292f)](https://testing-library.com/)
 [![Redux](https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=redux&logoColor=24292f)](https://redux-toolkit.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=24292f)](https://nextjs.org/)
 [![Material UI](https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=mui&logoColor=24292f)](https://mui.com/)
@@ -23,6 +24,7 @@ I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindc
 [![Symfony](https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f)](https://symfony.com/)
 [![Fx](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
 [![Fiber](https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f)](https://gofiber.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-fff?style=for-the-badge&logo=swagger&logoColor=24292f)](https://swagger.io/resources/open-api/)
 [![Django](https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f)](https://www.djangoproject.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f)](https://tailwindcss.com/)
 
