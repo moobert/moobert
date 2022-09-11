@@ -17,11 +17,13 @@ I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindc
 
 [![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=24292f)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=redux&logoColor=24292f)](https://redux-toolkit.js.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=24292f)](https://nextjs.org/)
 [![Material UI](https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=mui&logoColor=24292f)](https://mui.com/)
 [![Webpack](https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f)](https://webpack.js.org/)
 [![Symfony](https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f)](https://symfony.com/)
 [![Django](https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f)](https://www.djangoproject.com/)
 [![Fx](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
+[![Fiber](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f)](https://tailwindcss.com/)
 
 #### Platforms
