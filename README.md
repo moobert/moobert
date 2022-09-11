@@ -35,4 +35,6 @@ I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindc
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-fff?style=for-the-badge&logo=ubuntu&logoColor=24292f)](https://ubuntu.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-fff?style=for-the-badge&logo=cloudflare&logoColor=24292f)](https://www.cloudflare.com/)
 [![Auth0](https://img.shields.io/badge/Auth0-fff?style=for-the-badge&logo=auth0&logoColor=24292f)](https://auth0.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=24292f)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-fff?style=for-the-badge&logo=redis&logoColor=24292f)](https://redis.io/)
 
