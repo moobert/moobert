@@ -21,9 +21,9 @@ I love creating [fast](https://web.dev/measure/), [responsive](https://tailwindc
 [![Material UI](https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=mui&logoColor=24292f)](https://mui.com/)
 [![Webpack](https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f)](https://webpack.js.org/)
 [![Symfony](https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f)](https://symfony.com/)
-[![Django](https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f)](https://www.djangoproject.com/)
 [![Fx](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
 [![Fiber](https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f)](https://gofiber.io/)
+[![Django](https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f)](https://www.djangoproject.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f)](https://tailwindcss.com/)
 
 #### Platforms
