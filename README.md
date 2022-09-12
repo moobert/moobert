@@ -2,7 +2,7 @@
 
 I love creating [fast](https://web.dev/measure/), [tested](https://testing-library.com/), [responsive](https://tailwindcss.com/) and [accessible](https://www.w3.org/WAI/tutorials/) websites; powered by [stateless](https://jwt.io/), [well-documented](https://swagger.io/resources/open-api/) and [well-tested](https://pkg.go.dev/testing) APIs.
 
-### Tech Stack
+### I use these technologies
 
 #### Languages
 
@@ -30,7 +30,10 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 
 #### Platforms
 
+[![Ansible](https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f)](https://www.ansible.com/)
 [![Azure](https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f)](https://azure.microsoft.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-fff?style=for-the-badge&logo=azure-devops&logoColor=24292f)](https://azure.microsoft.com/en-us/products/devops/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-fff?style=for-the-badge&logo=digitalocean&logoColor=24292f)](https://www.digitalocean.com/)
 [![Docker](https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=24292f)](https://www.docker.com/)
 [![Debian](https://img.shields.io/badge/Debian-fff?style=for-the-badge&logo=debian&logoColor=24292f)](https://www.debian.org/)
 [![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-fff?style=for-the-badge&logo=alpine-linux&logoColor=24292f)](https://alpinelinux.org/)
@@ -39,4 +42,5 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 [![Auth0](https://img.shields.io/badge/Auth0-fff?style=for-the-badge&logo=auth0&logoColor=24292f)](https://auth0.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=24292f)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-fff?style=for-the-badge&logo=redis&logoColor=24292f)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-fff?style=for-the-badge&logo=rabbitmq&logoColor=24292f)](https://www.rabbitmq.com/)
 
