@@ -6,12 +6,42 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 
 #### Languages
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=24292f)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php&logoColor=24292f)](https://www.php.net/)
-[![Go](https://img.shields.io/badge/Go-fff?style=for-the-badge&logo=Go&logoColor=24292f)](https://go.dev/)
-[![Python](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=24292f)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=24292f)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=24292f)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <picture>
+    <source srcset="https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=24292f" alt="JavaScript" />
+  </picture>
+</a>
+<a href="https://www.php.net/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/PHP-24292f?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php&logoColor=24292f" alt="PHP" />
+  </picture>
+</a>
+<a href="https://go.dev/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Go-24292f?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Go-fff?style=for-the-badge&logo=Go&logoColor=24292f" alt="Go" />
+  </picture>
+</a>
+<a href="https://www.python.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=24292f" alt="Python" />
+  </picture>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <picture>
+    <source srcset="https://img.shields.io/badge/HTML5-24292f?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=24292f" alt="HTML5" />
+  </picture>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <picture>
+    <source srcset="https://img.shields.io/badge/CSS3-24292f?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=24292f" alt="CSS3" />
+  </picture>
+</a>
 
 #### Frameworks
 
