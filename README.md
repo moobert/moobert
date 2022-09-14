@@ -4,6 +4,15 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 
 ### I use these technologies
 
+<!--
+<a href="">
+  <picture>
+    <source srcset="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=&logoColor=24292f" alt="" />
+  </picture>
+</a>
+-->
+
 #### Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -20,37 +29,69 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 </a>
 <a href="https://go.dev/">
   <picture>
-    <source srcset="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=php&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Go-fff?style=for-the-badge&logo=Go&logoColor=24292f" alt="Go" />
+    <source srcset="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Go-fff?style=for-the-badge&logo=go&logoColor=24292f" alt="Go" />
   </picture>
 </a>
 <a href="https://www.python.org/">
   <picture>
-    <source srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=php&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=24292f" alt="Python" />
   </picture>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <picture>
-    <source srcset="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=php&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=24292f" alt="HTML5" />
   </picture>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <picture>
-    <source srcset="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=php&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=fff" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=24292f" alt="CSS3" />
   </picture>
 </a>
 
 #### Frameworks
 
-[![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=24292f)](https://reactjs.org/)
-[![Testing Library](https://img.shields.io/badge/Testing_Library-fff?style=for-the-badge&logo=testinglibrary&logoColor=24292f)](https://testing-library.com/)
-[![Redux](https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=redux&logoColor=24292f)](https://redux-toolkit.js.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=24292f)](https://nextjs.org/)
-[![Material UI](https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=mui&logoColor=24292f)](https://mui.com/)
-[![Webpack](https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f)](https://webpack.js.org/)
+<a href="https://reactjs.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=javascript&logoColor=24292f" alt="React" />
+  </picture>
+</a>
+<a href="https://testing-library.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Testing_Library-0d1117?style=for-the-badge&logo=testing-library&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Testing_Library-fff?style=for-the-badge&logo=testing-library&logoColor=24292f" alt="Testing Library" />
+  </picture>
+</a>
+<a href="https://redux-toolkit.js.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=redux&logoColor=24292f" alt="Redux" />
+  </picture>
+</a>
+<a href="https://nextjs.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=24292f" alt="Next.js" />
+  </picture>
+</a>
+<a href="https://mui.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Material--UI-0d1117?style=for-the-badge&logo=mui&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=mui&logoColor=24292f" alt="Material UI" />
+  </picture>
+</a>
+<a href="https://webpack.js.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Webpack-0d1117?style=for-the-badge&logo=webpack&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f" alt="Webpack" />
+  </picture>
+</a>
+
+[![](https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f)]()
 [![Symfony](https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f)](https://symfony.com/)
 [![Fx](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
 [![Fiber](https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f)](https://gofiber.io/)
