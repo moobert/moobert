@@ -90,14 +90,42 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
     <img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f" alt="Webpack" />
   </picture>
 </a>
-
-[![](https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=webpack&logoColor=24292f)]()
-[![Symfony](https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f)](https://symfony.com/)
-[![Fx](https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f)](https://pkg.go.dev/go.uber.org/fx)
-[![Fiber](https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f)](https://gofiber.io/)
-[![Swagger](https://img.shields.io/badge/Swagger-fff?style=for-the-badge&logo=swagger&logoColor=24292f)](https://swagger.io/resources/open-api/)
-[![Django](https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f)](https://www.djangoproject.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f)](https://tailwindcss.com/)
+<a href="https://symfony.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Symfony-fff?style=for-the-badge&logo=symfony&logoColor=24292f" alt="Symfony" />
+  </picture>
+</a>
+<a href="https://pkg.go.dev/go.uber.org/fx">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Fx-0d1117?style=for-the-badge&logo=gunicorn&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f" alt="Fx" />
+  </picture>
+</a>
+<a href="https://gofiber.io/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Fiber-0d1117?style=for-the-badge&logo=azure-functions&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f" alt="Fiber" />
+  </picture>
+</a>
+<a href="https://swagger.io/resources/open-api/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Swagger-fff?style=for-the-badge&logo=swagger&logoColor=24292f" alt="Swagger" />
+  </picture>
+</a>
+<a href="https://www.djangoproject.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f" alt="Django" />
+  </picture>
+</a>
+<a href="https://tailwindcss.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f" alt="Tailwind CSS" />
+  </picture>
+</a>
 
 #### Platforms
 
