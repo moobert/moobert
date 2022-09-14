@@ -129,18 +129,87 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 
 #### Platforms
 
-[![Ansible](https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f)](https://www.ansible.com/)
-[![Azure](https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f)](https://azure.microsoft.com/)
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-fff?style=for-the-badge&logo=azure-devops&logoColor=24292f)](https://azure.microsoft.com/en-us/products/devops/)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-fff?style=for-the-badge&logo=digitalocean&logoColor=24292f)](https://www.digitalocean.com/)
-[![Docker](https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=24292f)](https://www.docker.com/)
-[![Debian](https://img.shields.io/badge/Debian-fff?style=for-the-badge&logo=debian&logoColor=24292f)](https://www.debian.org/)
-[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-fff?style=for-the-badge&logo=alpine-linux&logoColor=24292f)](https://alpinelinux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-fff?style=for-the-badge&logo=ubuntu&logoColor=24292f)](https://ubuntu.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-fff?style=for-the-badge&logo=cloudflare&logoColor=24292f)](https://www.cloudflare.com/)
-[![Auth0](https://img.shields.io/badge/Auth0-fff?style=for-the-badge&logo=auth0&logoColor=24292f)](https://auth0.com/)
-[![Mapbox](https://img.shields.io/badge/Mapbox-fff?style=for-the-badge&logo=mapbox&logoColor=24292f)](https://www.mapbox.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=24292f)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-fff?style=for-the-badge&logo=redis&logoColor=24292f)](https://redis.io/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-fff?style=for-the-badge&logo=rabbitmq&logoColor=24292f)](https://www.rabbitmq.com/)
-
+<a href="https://www.ansible.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f" alt="Ansible" />
+  </picture>
+</a>
+<a href="https://azure.microsoft.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure" />
+  </picture>
+</a>
+<a href="https://azure.microsoft.com/en-us/products/devops/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Azure_DevOps-0d1117?style=for-the-badge&logo=azure-devops&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-fff?style=for-the-badge&logo=azure-devops&logoColor=24292f" alt="Azure DevOps" />
+  </picture>
+</a>
+<a href="https://www.digitalocean.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/DigitalOcean-0d1117?style=for-the-badge&logo=digitalocean&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/DigitalOcean-fff?style=for-the-badge&logo=digitalocean&logoColor=24292f" alt="DigitalOcean" />
+  </picture>
+</a>
+<a href="https://www.docker.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=24292f" alt="Docker" />
+  </picture>
+</a>
+<a href="https://www.debian.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Debian-fff?style=for-the-badge&logo=debian&logoColor=24292f" alt="Debian" />
+  </picture>
+</a>
+<a href="https://alpinelinux.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Alpine_Linux-0d1117?style=for-the-badge&logo=alpine-linux&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Alpine_Linux-fff?style=for-the-badge&logo=alpine-linux&logoColor=24292f" alt="Alpine Linux" />
+  </picture>
+</a>
+<a href="https://ubuntu.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Ubuntu-fff?style=for-the-badge&logo=ubuntu&logoColor=24292f" alt="Ubuntu" />
+  </picture>
+</a>
+<a href="https://www.cloudflare.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Cloudflare-fff?style=for-the-badge&logo=cloudflare&logoColor=24292f" alt="Cloudflare" />
+  </picture>
+</a>
+<a href="https://auth0.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Auth0-0d1117?style=for-the-badge&logo=auth0&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Auth0-fff?style=for-the-badge&logo=auth0&logoColor=24292f" alt="Auth0" />
+  </picture>
+</a>
+<a href="https://www.mapbox.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Mapbox-0d1117?style=for-the-badge&logo=mapbox&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Mapbox-fff?style=for-the-badge&logo=mapbox&logoColor=24292f" alt="Mapbox" />
+  </picture>
+</a>
+<a href="https://www.postgresql.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logopostgresql=&logoColor=24292f" alt="PostgreSQL" />
+  </picture>
+</a>
+<a href="https://redis.io/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Redis-fff?style=for-the-badge&logo=redis&logoColor=24292f" alt="Redis" />
+  </picture>
+</a>
+<a href="https://www.rabbitmq.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/RabbitMQ-fff?style=for-the-badge&logo=rabbitmq&logoColor=24292f" alt="RabbitMQ" />
+  </picture>
+</a>
