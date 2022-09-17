@@ -195,10 +195,16 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
     <img src="https://img.shields.io/badge/Mapbox-fff?style=for-the-badge&logo=mapbox&logoColor=24292f" alt="Mapbox" />
   </picture>
 </a>
+<a href="https://stripe.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Stripe-fff?style=for-the-badge&logo=stripe&logoColor=24292f" alt="Stripe" />
+  </picture>
+</a>
 <a href="https://www.postgresql.org/">
   <picture>
     <source srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logopostgresql=&logoColor=24292f" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql=&logoColor=24292f" alt="PostgreSQL" />
   </picture>
 </a>
 <a href="https://redis.io/">
