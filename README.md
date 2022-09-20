@@ -13,6 +13,8 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
 </a>
 -->
 
+Please click the icons to find out more information.
+
 #### Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -124,6 +126,12 @@ I love creating [fast](https://web.dev/measure/), [tested](https://testing-libra
   <picture>
     <source srcset="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=24292f" alt="Tailwind CSS" />
+  </picture>
+</a>
+<a href="https://jwt.io/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/JSON_Web_Tokens-0d1117?style=for-the-badge&logo=json-web-tokens&logoColor=fff" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/JSON_Web_Tokens-fff?style=for-the-badge&logo=json-web-tokens&logoColor=24292f" alt="JSON Web Tokens" />
   </picture>
 </a>
 
