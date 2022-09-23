@@ -134,25 +134,31 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/JSON_Web_Tokens-fff?style=for-the-badge&logo=json-web-tokens&logoColor=24292f" alt="JSON Web Tokens" />
   </picture>
 </a>
-
-#### Platforms
-
 <a href="https://www.ansible.com/">
   <picture>
     <source srcset="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f" alt="Ansible" />
   </picture>
 </a>
-<a href="https://azure.microsoft.com/">
-  <picture>
-    <source srcset="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure" />
-  </picture>
-</a>
+
+#### Platforms
+
 <a href="https://azure.microsoft.com/en-us/products/devops/">
   <picture>
     <source srcset="https://img.shields.io/badge/Azure_DevOps-0d1117?style=for-the-badge&logo=azure-devops&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/Azure_DevOps-fff?style=for-the-badge&logo=azure-devops&logoColor=24292f" alt="Azure DevOps" />
+  </picture>
+</a>
+<a href="https://azure.microsoft.com/en-gb/products/functions/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Azure_Functions-0d1117?style=for-the-badge&logo=azurefunctions&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Azure_Functions-fff?style=for-the-badge&logo=azurefunctions&logoColor=24292f" alt="Azure Functions" />
+  </picture>
+</a>
+<a href="https://azure.microsoft.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure Web Apps" />
   </picture>
 </a>
 <a href="https://www.digitalocean.com/">
