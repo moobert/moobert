@@ -100,14 +100,14 @@ Please click the icons to find out more information.
 </a>
 <a href="https://pkg.go.dev/go.uber.org/fx">
   <picture>
-    <source srcset="https://img.shields.io/badge/Fx-0d1117?style=for-the-badge&logo=gunicorn&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=gunicorn&logoColor=24292f" alt="Fx" />
+    <source srcset="https://img.shields.io/badge/Fx-0d1117?style=for-the-badge&logo=go&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Fx-fff?style=for-the-badge&logo=go&logoColor=24292f" alt="Fx" />
   </picture>
 </a>
 <a href="https://gofiber.io/">
   <picture>
-    <source srcset="https://img.shields.io/badge/Fiber-0d1117?style=for-the-badge&logo=azure-functions&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=azure-functions&logoColor=24292f" alt="Fiber" />
+    <source srcset="https://img.shields.io/badge/Fiber-0d1117?style=for-the-badge&logo=go&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Fiber-fff?style=for-the-badge&logo=go&logoColor=24292f" alt="Fiber" />
   </picture>
 </a>
 <a href="https://swagger.io/resources/open-api/">
@@ -116,10 +116,10 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/Swagger-fff?style=for-the-badge&logo=swagger&logoColor=24292f" alt="Swagger" />
   </picture>
 </a>
-<a href="https://www.djangoproject.com/">
+<a href="https://www.ansible.com/">
   <picture>
-    <source srcset="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=24292f" alt="Django" />
+    <source srcset="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f" alt="Ansible" />
   </picture>
 </a>
 <a href="https://tailwindcss.com/">
@@ -132,12 +132,6 @@ Please click the icons to find out more information.
   <picture>
     <source srcset="https://img.shields.io/badge/JSON_Web_Tokens-0d1117?style=for-the-badge&logo=json-web-tokens&logoColor=fff" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/JSON_Web_Tokens-fff?style=for-the-badge&logo=json-web-tokens&logoColor=24292f" alt="JSON Web Tokens" />
-  </picture>
-</a>
-<a href="https://www.ansible.com/">
-  <picture>
-    <source srcset="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Ansible-fff?style=for-the-badge&logo=ansible&logoColor=24292f" alt="Ansible" />
   </picture>
 </a>
 
@@ -155,10 +149,10 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/Azure_Functions-fff?style=for-the-badge&logo=azurefunctions&logoColor=24292f" alt="Azure Functions" />
   </picture>
 </a>
-<a href="https://azure.microsoft.com/">
+<a href="https://azure.microsoft.com/en-gb/products/app-service/web/">
   <picture>
-    <source srcset="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure Web Apps" />
+    <source srcset="https://img.shields.io/badge/Azure_Web_Apps-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Azure_Web_Apps-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure Web Apps" />
   </picture>
 </a>
 <a href="https://www.digitalocean.com/">
