@@ -215,6 +215,12 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql=&logoColor=24292f" alt="PostgreSQL" />
   </picture>
 </a>
+<a href="https://www.mysql.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&logo=mysql=&logoColor=24292f" alt="MySQL" />
+  </picture>
+</a>
 <a href="https://redis.io/">
   <picture>
     <source srcset="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
