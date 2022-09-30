@@ -209,6 +209,13 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/Stripe-fff?style=for-the-badge&logo=stripe&logoColor=24292f" alt="Stripe" />
   </picture>
 </a>
+</a>
+<a href="https://www.nginx.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Nginx-fff?style=for-the-badge&logo=nginx&logoColor=24292f" alt="Nginx" />
+  </picture>
+</a>
 <a href="https://www.postgresql.org/">
   <picture>
     <source srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
