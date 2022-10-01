@@ -62,6 +62,12 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=javascript&logoColor=24292f" alt="React" />
   </picture>
 </a>
+<a href="https://jestjs.io/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Jest-fff?style=for-the-badge&logo=jest&logoColor=24292f" alt="Jest" />
+  </picture>
+</a>
 <a href="https://testing-library.com/">
   <picture>
     <source srcset="https://img.shields.io/badge/Testing_Library-0d1117?style=for-the-badge&logo=testing-library&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
