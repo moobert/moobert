@@ -161,6 +161,12 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/Azure_Web_Apps-fff?style=for-the-badge&logo=microsoft-azure&logoColor=24292f" alt="Azure Web Apps" />
   </picture>
 </a>
+<a href="https://aws.amazon.com/s3/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Amazon_S3-0d1117?style=for-the-badge&logo=amazon-s3&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Amazon_S3-fff?style=for-the-badge&logo=amazon-s3&logoColor=24292f" alt="Amazon S3" />
+  </picture>
+</a>
 <a href="https://www.digitalocean.com/">
   <picture>
     <source srcset="https://img.shields.io/badge/DigitalOcean-0d1117?style=for-the-badge&logo=digitalocean&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
