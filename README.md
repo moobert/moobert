@@ -58,8 +58,14 @@ Please click the icons to find out more information.
 
 <a href="https://reactjs.org/">
   <picture>
-    <source srcset="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=javascript&logoColor=24292f" alt="React" />
+    <source srcset="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=24292f" alt="React" />
+  </picture>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=24292f" alt="TypeScript" />
   </picture>
 </a>
 <a href="https://jestjs.io/">
