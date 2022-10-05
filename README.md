@@ -64,8 +64,8 @@ Please click the icons to find out more information.
 </a>
 <a href="https://styled-components.com/">
   <picture>
-    <source srcset="https://img.shields.io/badge/styled-components-0d1117?style=for-the-badge&logo=styled-components&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/badge/styled-components-fff?style=for-the-badge&logo=styled-components&logoColor=24292f" alt="styled-components" />
+    <source srcset="https://img.shields.io/badge/Styled_Components-0d1117?style=for-the-badge&logo=styled-components&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Styled_Components-fff?style=for-the-badge&logo=styled-components&logoColor=24292f" alt="Styled Components" />
   </picture>
 </a>
 <a href="https://www.typescriptlang.org/">
