@@ -62,6 +62,12 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=24292f" alt="React" />
   </picture>
 </a>
+<a href="https://styled-components.com/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/styled-components-0d1117?style=for-the-badge&logo=styled-components&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/styled-components-fff?style=for-the-badge&logo=styled-components&logoColor=24292f" alt="styled-components" />
+  </picture>
+</a>
 <a href="https://www.typescriptlang.org/">
   <picture>
     <source srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
