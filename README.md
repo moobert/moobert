@@ -70,6 +70,12 @@ Please click the icons to find out more information.
 </a>
 <a href="https://www.typescriptlang.org/">
   <picture>
+    <source srcset="https://img.shields.io/badge/ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/ESLint-fff?style=for-the-badge&logo=eslint&logoColor=24292f" alt="ESLint" />
+  </picture>
+</a>
+<a href="https://eslint.org/">
+  <picture>
     <source srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
     <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=24292f" alt="TypeScript" />
   </picture>
