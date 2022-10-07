@@ -246,6 +246,12 @@ Please click the icons to find out more information.
     <img src="https://img.shields.io/badge/Nginx-fff?style=for-the-badge&logo=nginx&logoColor=24292f" alt="Nginx" />
   </picture>
 </a>
+<a href="https://httpd.apache.org/">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Apache-0d1117?style=for-the-badge&logo=apache&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/badge/Apache-fff?style=for-the-badge&logo=apache&logoColor=24292f" alt="Apache" />
+  </picture>
+</a>
 <a href="https://www.postgresql.org/">
   <picture>
     <source srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9" media="(prefers-color-scheme: dark)" />
